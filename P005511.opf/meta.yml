@@ -4,4 +4,14 @@ source_metadata:
   id: bdr:W1KG16156
   title: ཚད་མའི་སྐོར་གྱི་རྒྱ་གཞུང་རྩ་འགྲེལ།
   author: ''
-  volumes: {}
+  volumes:
+    cecae0b5a6d74ff99fdaf9188aa3ae64:
+      image_group_id: I1KG16172
+      title: ''
+      volume_number: 1
+      total_pages: 532
+    13cfa18fad464f1aaeaccdbe1f4f2d3a:
+      image_group_id: I1KG16173
+      title: ''
+      volume_number: 2
+      total_pages: 402
